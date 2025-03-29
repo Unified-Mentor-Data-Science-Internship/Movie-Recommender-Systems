@@ -23,3 +23,13 @@ This project delves into the implementation of several key recommendation method
 **Purpose and Educational Value:**
 
 This repository serves as an educational resource for anyone interested in learning about and implementing movie recommender systems. It provides a hands-on experience with various recommendation techniques, enabling users to gain practical insights into the field of recommender systems.
+
+The project is deployed using streamlit and the interface is shown below
+
+The basic interface:
+![Screenshot 2025-03-29 123717](https://github.com/user-attachments/assets/166ac116-54e0-4537-9375-ae9bb510aa2b)
+
+Working on how it recommends a movie:
+![Screenshot 2025-03-29 123737](https://github.com/user-attachments/assets/1c97bd6d-86ee-4bef-ac5e-deb5571eedd8)
+
+
